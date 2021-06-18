@@ -1,0 +1,6 @@
+module Pods_CuCo {
+  umbrella header "Pods-CuCo-umbrella.h"
+
+  export *
+  module * { export * }
+}
